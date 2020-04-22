@@ -1,13 +1,11 @@
-Hamming sayisini hesaplayan bir python kodudur. Amaci rastgele aralikta 
-olusturulan hamming sayi dizisinin icine 1 ve 0 eklenmektedir. Dizinin boyutuda
-10000' den kucuk rastgele bir sayidir. Olusan dizi hangi elemanlarinin karsilikli
-olarak esit olmayanlari cikarmaktir. Sirasiyla esit olmayan dizileri yazdirip
-kac tane oldugu bastirilmistir. Program dinamik calismaktadir. Daha buyuk 
-sayilarda da deneyebilirsiniz.
+# Hamming Distance Python
 
 
-Kod GPL v.3 altindadir. 
-    
-    
-Yildiz birakirsaniz cok sevinirim.
-    
+It is a python code that calculates the number of hamming. 1 and 0 are added into the hamming number sequence, the purpose of which is generated at random intervals. The size of the array is a random number less than 10000. Which elements of the resulting array are mutually inequalities. Print sequences that are not equal in sequence, and count how many. The program is running dynamically. You can try it in larger numbers.
+
+
+You need to run with Python2.7.
+
+```
+python2.7 hamming.py  
+```
